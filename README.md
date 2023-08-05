@@ -13,7 +13,7 @@ The Color Mixer App is a native iOS application built with UIKit that allows use
 - Intuitive and user-friendly interface, designed with UIKit.
 - Reset option to start over with default color settings.
 
-## Screenshots
+<!-- ## Screenshots -->
 <!-- TODO: Add screenshots of the app in action -->
 
 ## Requirements
